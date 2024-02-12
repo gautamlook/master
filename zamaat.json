@@ -1,17 +1,172 @@
-[
-	{
-		"name":"البث المباشر",
-		"type": "VOD",
-		"url": "http://almoosawi.co:1935/live/myStream/playlist.m3u8"
-	},
-	{
-		"name": "البث المباشر المسجل",
-		"type": "VOD",
-		"url": "http://almoosawi.co:1935/live/myStream/playlist.m3u8?DVR"
-	},
-	{
-		"name": "راديو",
-		"type": "AOD",
-		"url": "http://almoosawi.co:1935/live/myStream_aac/playlist.m3u8"
-	}
-]
+{
+  "videos_id": 4726,
+  "cleanKey": null,
+  "live_servers_id": null,
+  "liveLink": null,
+  "content_page_url": "",
+  "video_duration_seconds": 0,
+  "video_duration": "1:24:35",
+  "name": "Segfault",
+  "users_id": false,
+  "showAds": true,
+  "vmap": [
+    {
+      "timeOffset": "start",
+      "timeOffset_seconds": 0,
+      "adTagURI": [
+       
+      ]
+    },
+    {
+      "timeOffset": "end",
+      "timeOffset_seconds": 0,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "00:10:00.000",
+      "timeOffset_seconds": 600,
+      "adTagURI": [
+ 
+      ]
+    },
+    {
+      "timeOffset": "00:20:00.000",
+      "timeOffset_seconds": 1200,
+      "adTagURI": [
+    
+      ]
+    },
+    {
+      "timeOffset": "00:30:00.000",
+      "timeOffset_seconds": 1800,
+      "adTagURI": [
+       
+      ]
+    },
+    {
+      "timeOffset": "00:40:00.000",
+      "timeOffset_seconds": 2400,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "00:50:00.000",
+      "timeOffset_seconds": 3000,
+      "adTagURI": [
+       
+      ]
+    },
+    {
+      "timeOffset": "01:00:00.000",
+      "timeOffset_seconds": 3600,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "01:10:00.000",
+      "timeOffset_seconds": 4200,
+      "adTagURI": [
+
+      ]
+    },
+    {
+      "timeOffset": "01:20:00.000",
+      "timeOffset_seconds": 4800,
+      "adTagURI": [
+      
+      ]
+    },
+    {
+      "timeOffset": "01:30:00.000",
+      "timeOffset_seconds": 5400,
+      "adTagURI": [
+
+      ]
+    },
+    {
+      "timeOffset": "01:40:00.000",
+      "timeOffset_seconds": 6000,
+      "adTagURI": [
+     
+      ]
+    },
+    {
+      "timeOffset": "01:50:00.000",
+      "timeOffset_seconds": 6600,
+      "adTagURI": [
+      
+      ]
+    },
+    {
+      "timeOffset": "02:00:00.000",
+      "timeOffset_seconds": 7200,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "02:10:00.000",
+      "timeOffset_seconds": 7800,
+      "adTagURI": [
+     
+      ]
+    },
+    {
+      "timeOffset": "02:20:00.000",
+      "timeOffset_seconds": 8400,
+      "adTagURI": [
+       
+      ]
+    },
+    {
+      "timeOffset": "02:30:00.000",
+      "timeOffset_seconds": 9000,
+      "adTagURI": [
+  
+      ]
+    },
+    {
+      "timeOffset": "02:40:00.000",
+      "timeOffset_seconds": 9600,
+      "adTagURI": [
+
+      ]
+    },
+    {
+      "timeOffset": "02:50:00.000",
+      "timeOffset_seconds": 10200,
+      "adTagURI": [
+       
+      ]
+    }
+  ],
+  "channelName": "KDMG",
+  "category": "Action",
+  "clean_title": "segfault",
+  "timeOffsets": [
+    "start",
+    "end",
+    "00:10:00.000",
+    "00:20:00.000",
+    "00:30:00.000",
+    "00:40:00.000",
+    "00:50:00.000",
+    "01:00:00.000",
+    "01:10:00.000",
+    "01:20:00.000",
+    "01:30:00.000",
+    "01:40:00.000",
+    "01:50:00.000",
+    "02:00:00.000",
+    "02:10:00.000",
+    "02:20:00.000",
+    "02:30:00.000",
+    "02:40:00.000",
+    "02:50:00.000"
+  ],
+  "optionalAdTagUrl": 3
+}
