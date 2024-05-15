@@ -1,0 +1,236 @@
+{
+  "videos_id": 5165,
+  "cleanKey": null,
+  "live_servers_id": null,
+  "liveLink": null,
+  "content_page_url": "https://flixhouse.com/video/5165/broken",
+  "video_duration_seconds": 0,
+  "video_duration": "1:20:50",
+  "name": "Broken",
+  "users_id": 10276,
+  "showAds": true,
+  "vmap": [
+    {
+      "timeOffset": "start",
+      "timeOffset_seconds": 0,
+      "adTagURI": [
+        "https: //pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/vmap_ad_samples&sz=640x480&cust_params=sample_ar%3Dpreonly&ciu_szs=300x250%2C728x90&gdfp_req=1&ad_rule=1&output=vmap&unviewed_position_start=1&env=vp&impl=s&correlator="
+      ]
+    },
+    {
+      "timeOffset": "end",
+      "timeOffset_seconds": 0,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "00:07:00.000",
+      "timeOffset_seconds": 420,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "00:14:00.000",
+      "timeOffset_seconds": 840,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "00:21:00.000",
+      "timeOffset_seconds": 1260,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "00:28:00.000",
+      "timeOffset_seconds": 1680,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "00:35:00.000",
+      "timeOffset_seconds": 2100,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "00:42:00.000",
+      "timeOffset_seconds": 2520,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "00:49:00.000",
+      "timeOffset_seconds": 2940,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "00:56:00.000",
+      "timeOffset_seconds": 3360,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "01:03:00.000",
+      "timeOffset_seconds": 3780,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "01:10:00.000",
+      "timeOffset_seconds": 4200,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "01:17:00.000",
+      "timeOffset_seconds": 4620,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "01:24:00.000",
+      "timeOffset_seconds": 5040,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "01:31:00.000",
+      "timeOffset_seconds": 5460,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "01:38:00.000",
+      "timeOffset_seconds": 5880,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "01:45:00.000",
+      "timeOffset_seconds": 6300,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "01:52:00.000",
+      "timeOffset_seconds": 6720,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "01:59:00.000",
+      "timeOffset_seconds": 7140,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "02:06:00.000",
+      "timeOffset_seconds": 7560,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "02:13:00.000",
+      "timeOffset_seconds": 7980,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "02:20:00.000",
+      "timeOffset_seconds": 8400,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "02:27:00.000",
+      "timeOffset_seconds": 8820,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "02:34:00.000",
+      "timeOffset_seconds": 9240,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "02:41:00.000",
+      "timeOffset_seconds": 9660,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "02:48:00.000",
+      "timeOffset_seconds": 10080,
+      "adTagURI": [
+        
+      ]
+    },
+    {
+      "timeOffset": "02:55:00.000",
+      "timeOffset_seconds": 10500,
+      "adTagURI": [
+        
+      ]
+    }
+  ],
+  "channelName": "M-ENT",
+  "category": "Thrillers",
+  "clean_title": "broken",
+  "timeOffsets": [
+    "start",
+    "end",
+    "00:07:00.000",
+    "00:14:00.000",
+    "00:21:00.000",
+    "00:28:00.000",
+    "00:35:00.000",
+    "00:42:00.000",
+    "00:49:00.000",
+    "00:56:00.000",
+    "01:03:00.000",
+    "01:10:00.000",
+    "01:17:00.000",
+    "01:24:00.000",
+    "01:31:00.000",
+    "01:38:00.000",
+    "01:45:00.000",
+    "01:52:00.000",
+    "01:59:00.000",
+    "02:06:00.000",
+    "02:13:00.000",
+    "02:20:00.000",
+    "02:27:00.000",
+    "02:34:00.000",
+    "02:41:00.000",
+    "02:48:00.000",
+    "02:55:00.000"
+  ],
+  "optionalAdTagUrl": 3
+}
