@@ -1,0 +1,67 @@
+{
+    "app": {
+        "status": 1,
+        "msg": "Data has been retrieved successfully.",
+        "data": {
+            "pages": [
+                {
+                    "page_guid": "a960a39db3ec8731515e986d88b67a",
+                    "page_title": "Parental Controls",
+                    "page_slug": "parental-controls",
+                    "page_type": "parental",
+                    "page_left_icon": "parental-controls.png",
+                    "page_description": "Please select the appropriate viewing age for App.  Your selection will determine which movie and show ratings you can view in the app. If this selection is changed, you will be requried to enter your account password."
+                },
+                {
+                    "page_guid": "a960a39db3ec87315e986d88b6a37a",
+                    "page_title": "Autoplay Previews",
+                    "page_slug": "autoplay-previews",
+                    "page_type": "autoplay",
+                    "page_left_icon": "autoplay-previews.png",
+                    "page_description": "You can turn the autoplay functionality on or off, which allows you to preview the video while browsing."
+                },
+                {
+                    "page_guid": "a960a39db3ec8731515e986d88b6a3da",
+                    "page_title": "About",
+                    "page_slug": "about-us",
+                    "page_type": "content",
+                    "page_left_icon": "about-us.png",
+                    "page_description": "."
+                },
+{
+                    "page_guid": "a960a39db3ec8731515e986d88b6a37a",
+                    "page_title": "Privacy Policy",
+                    "page_slug": "Privacy-Policy",
+                    "page_type": "policy",
+                    "page_left_icon": "contact-us.png",
+                    "page_description": ""
+                },
+{
+                    "page_guid": "a960a39db3ec8731515e986d88b6a37a",
+                    "page_title": "Terms of Service",
+                    "page_slug": "Terms-of-Service",
+                    "page_type": "terms",
+                    "page_left_icon": "contact-us.png",
+                    "page_description": ""
+                },
+               
+                {
+                    "page_guid": "a960a39db3ec8731515e986d88b6a37a",
+                    "page_title": "Contact Us",
+                    "page_slug": "contact-us",
+                    "page_type": "content",
+                    "page_left_icon": "contact-us.png",
+                    "page_description": ""
+                },
+                {
+                    "page_guid": "a960a39db3ec8731515e986d88b6a37a",
+                    "page_title": "Profile",
+                    "page_slug": "profile",
+                    "page_type": "profile",
+                    "page_left_icon": "profile.png",
+                    "page_description": ""
+                }
+            ]
+        }
+    }
+}
