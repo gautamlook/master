@@ -5,7 +5,7 @@
       "name": "HeroBanner",
       "category_slug": "men's-fashion",
       "category_type": "H",
-      "child_categories": [
+      "data": [
         {
           "id": "2",
           "name": "T-Shirt",
@@ -33,7 +33,7 @@
       "name": "Men's Fashion",
       "category_slug": "men's-fashion",
       "category_type": "L",
-      "child_categories": [
+      "data": [
         {
           "id": "2",
           "name": "T-Shirt",
@@ -116,7 +116,7 @@
       "name": "Electronic Device ",
       "category_slug": "electronic-device-",
       "category_type": "P",
-      "child_categories": [
+      "data": [
         {
           "id": "8",
           "name": "Mobile ",
@@ -214,7 +214,7 @@
       "name": "Electronic Accessories ",
       "category_slug": "electronic-accessories-",
       "category_type": "L",
-      "child_categories": [
+      "data": [
         {
           "id": "17",
           "name": "Mobile Accessories",
@@ -272,7 +272,7 @@
       "name": "Health & Beauty",
       "category_slug": "health-&-beauty",
       "category_type": "L",
-      "child_categories": [
+      "data": [
         {
           "id": "29",
           "name": "Bath & Body",
@@ -320,7 +320,7 @@
       "name": "Men's Fashion",
       "category_slug": "men's-fashion",
       "category_type": "L",
-      "child_categories": [
+      "data": [
         {
           "id": "2",
           "name": "T-Shirt",
@@ -353,7 +353,7 @@
       "name": "Men's Fashion",
       "category_slug": "men's-fashion",
       "category_type": "L",
-      "child_categories": [
+      "data": [
         {
           "id": "2",
           "name": "T-Shirt",
@@ -386,7 +386,7 @@
       "name": "Men's Fashion",
       "category_slug": "men's-fashion",
       "category_type": "P",
-      "child_categories": [
+      "data": [
         {
           "id": "2",
           "name": "T-Shirt",
