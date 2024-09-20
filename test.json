@@ -1,0 +1,741 @@
+{
+  "code": 0,
+  "message": "HomeScreen response fetched successfully.",
+  "data": {
+    "items": [
+      {
+        "id": 26689,
+        "title": "HB Dashboard for FE",
+        "sectionType": "HERO_BANNER",
+        "sectionSource": "EDITORIAL",
+        "layoutType": "LANDSCAPE",
+        "imageMetadata": {
+          "cardSize": "DEFAULT"
+        },
+        "editorialPlatformList": [
+          "DONGLE",
+          "OPEN_FS",
+          "SMART_TV",
+          "SAMSUNG",
+          "LG",
+          "TABLET",
+          "BINGE_ANYWHERE_IOS",
+          "BINGE_ANYWHERE_ANDROID",
+          "BINGE_ANYWHERE_WEB"
+        ],
+        "shuffleList": [
+          
+        ],
+        "contentList": [
+          {
+            "id": 1726139736869,
+            "title": "Static Hero Banner",
+            "titleBrief": "",
+            "titleMedium": "",
+            "titleSortName": "",
+            "image": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlApp": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139727421.jpg",
+            "imageUrlWeb": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139734478.jpg",
+            "appImageBM": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139727421.jpg",
+            "webImageBM": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139734478.jpg",
+            "contentType": "CUSTOM_STATIC_HB",
+            "contentShowType": "",
+            "subTitles": [
+              ""
+            ],
+            "position": 4,
+            "allowedOnBrowsers": true,
+            "provider": "",
+            "providerContentId": "",
+            "blackOut": false,
+            "hdChannel": false,
+            "pageType": "",
+            "partnerId": 0,
+            "posterTitle": "",
+            "appContentList": [
+              
+            ],
+            "backgroundImage": "",
+            "layoutType": "",
+            "railId": "",
+            "heroBannerType": "APPLE_HB",
+            "activationBannerType": "REACTIVATION_MIGRATION",
+            "freeEpisodesAvailable": false,
+            "liveContent": false,
+            "packName": "",
+            "screenName": "",
+            "partnerTrailerInfo": "",
+            "imageUrlOpenFs": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlSmartTv": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlSamsung": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlLg": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "buttonText": "",
+            "bannerText": "",
+            "newImage": "",
+            "newBackgroundImage": "",
+            "buttonCTACheck": true,
+            "allowedPlatformList": [
+              "DONGLE",
+              "OPEN_FS",
+              "SMART_TV",
+              "SAMSUNG",
+              "LG",
+              "TABLET",
+              "BINGE_ANYWHERE_IOS",
+              "BINGE_ANYWHERE_ANDROID",
+              "BINGE_ANYWHERE_WEB"
+            ],
+            "appPosterImageBM": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "fallback": false,
+            "appFallbackContentList": [
+              
+            ],
+            "trailerFromCMS": false,
+            "isTrailerFromCMS": false
+          },
+          {
+            "id": 1726139736869,
+            "title": "Static Hero Banner",
+            "titleBrief": "",
+            "titleMedium": "",
+            "titleSortName": "",
+            "image": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlApp": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139727421.jpg",
+            "imageUrlWeb": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139734478.jpg",
+            "appImageBM": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139727421.jpg",
+            "webImageBM": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139734478.jpg",
+            "contentType": "CUSTOM_STATIC_HB",
+            "contentShowType": "",
+            "subTitles": [
+              ""
+            ],
+            "position": 4,
+            "allowedOnBrowsers": true,
+            "provider": "",
+            "providerContentId": "",
+            "blackOut": false,
+            "hdChannel": false,
+            "pageType": "",
+            "partnerId": 0,
+            "posterTitle": "",
+            "appContentList": [
+              
+            ],
+            "backgroundImage": "",
+            "layoutType": "",
+            "railId": "",
+            "heroBannerType": "APPLE_HB",
+            "activationBannerType": "REACTIVATION_RENEW",
+            "freeEpisodesAvailable": false,
+            "liveContent": false,
+            "packName": "",
+            "screenName": "",
+            "partnerTrailerInfo": "",
+            "imageUrlOpenFs": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlSmartTv": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlSamsung": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlLg": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "buttonText": "",
+            "bannerText": "",
+            "newImage": "",
+            "newBackgroundImage": "",
+            "buttonCTACheck": true,
+            "allowedPlatformList": [
+              "DONGLE",
+              "OPEN_FS",
+              "SMART_TV",
+              "SAMSUNG",
+              "LG",
+              "TABLET",
+              "BINGE_ANYWHERE_IOS",
+              "BINGE_ANYWHERE_ANDROID",
+              "BINGE_ANYWHERE_WEB"
+            ],
+            "appPosterImageBM": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "fallback": false,
+            "appFallbackContentList": [
+              
+            ],
+            "trailerFromCMS": false,
+            "isTrailerFromCMS": false
+          },
+          {
+            "id": 1726139736869,
+            "title": "Static Hero Banner",
+            "titleBrief": "",
+            "titleMedium": "",
+            "titleSortName": "",
+            "image": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlApp": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139727421.jpg",
+            "imageUrlWeb": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139734478.jpg",
+            "appImageBM": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139727421.jpg",
+            "webImageBM": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139734478.jpg",
+            "contentType": "CUSTOM_STATIC_HB",
+            "contentShowType": "",
+            "subTitles": [
+              ""
+            ],
+            "position": 4,
+            "allowedOnBrowsers": true,
+            "provider": "",
+            "providerContentId": "",
+            "blackOut": false,
+            "hdChannel": false,
+            "pageType": "",
+            "partnerId": 0,
+            "posterTitle": "",
+            "appContentList": [
+              
+            ],
+            "backgroundImage": "",
+            "layoutType": "",
+            "railId": "",
+            "heroBannerType": "APPLE_HB",
+            "activationBannerType": "ENTITLED",
+            "freeEpisodesAvailable": false,
+            "liveContent": false,
+            "packName": "",
+            "screenName": "",
+            "partnerTrailerInfo": "",
+            "imageUrlOpenFs": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlSmartTv": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlSamsung": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlLg": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "buttonText": "",
+            "bannerText": "",
+            "newImage": "",
+            "newBackgroundImage": "",
+            "buttonCTACheck": true,
+            "allowedPlatformList": [
+              "DONGLE",
+              "OPEN_FS",
+              "SMART_TV",
+              "SAMSUNG",
+              "LG",
+              "TABLET",
+              "BINGE_ANYWHERE_IOS",
+              "BINGE_ANYWHERE_ANDROID",
+              "BINGE_ANYWHERE_WEB"
+            ],
+            "appPosterImageBM": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "fallback": false,
+            "appFallbackContentList": [
+              
+            ],
+            "trailerFromCMS": false,
+            "isTrailerFromCMS": false
+          },
+          {
+            "id": 1726478307780,
+            "title": "Hbb see all prime",
+            "titleBrief": "",
+            "titleMedium": "",
+            "titleSortName": "",
+            "image": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726478294160.jpg",
+            "imageUrlApp": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726478299753.jpg",
+            "imageUrlWeb": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726478306257.jpg",
+            "appImageBM": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726478299753.jpg",
+            "webImageBM": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726478306257.jpg",
+            "contentType": "HB_SEE_ALL",
+            "contentShowType": "VR",
+            "subTitles": [
+              ""
+            ],
+            "position": 1,
+            "linkUrl": "23141",
+            "allowedOnBrowsers": true,
+            "provider": "",
+            "providerContentId": "",
+            "blackOut": false,
+            "hdChannel": false,
+            "pageType": "",
+            "partnerId": 0,
+            "posterTitle": "",
+            "appContentList": [
+              
+            ],
+            "backgroundImage": "",
+            "layoutType": "",
+            "railId": "23141",
+            "heroBannerType": "HB_SEE_ALL",
+            "freeEpisodesAvailable": false,
+            "liveContent": false,
+            "packName": "",
+            "screenName": "",
+            "partnerTrailerInfo": "",
+            "imageUrlOpenFs": "",
+            "imageUrlSmartTv": "",
+            "imageUrlSamsung": "",
+            "imageUrlLg": "",
+            "buttonText": "",
+            "bannerText": "",
+            "newImage": "",
+            "newBackgroundImage": "",
+            "buttonCTACheck": true,
+            "allowedPlatformList": [
+              "DONGLE",
+              "OPEN_FS",
+              "SMART_TV",
+              "SAMSUNG",
+              "LG",
+              "TABLET",
+              "BINGE_ANYWHERE_IOS",
+              "BINGE_ANYWHERE_ANDROID",
+              "BINGE_ANYWHERE_WEB"
+            ],
+            "appPosterImageBM": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726478294160.jpg",
+            "fallback": false,
+            "appFallbackContentList": [
+              
+            ],
+            "trailerFromCMS": false,
+            "isTrailerFromCMS": false
+          },
+          {
+            "id": 901641,
+            "title": "THE GOOD THE BAD THE WEIRD",
+            "titleBrief": "THE GOOD THE BAD THE WEIRD",
+            "titleMedium": "THE GOOD THE BAD THE WEIRD",
+            "titleSortName": "THE GOOD THE BAD THE WEIRD",
+            "image": "https://images.hungama.com/c/1/eb8/a25/64768627/64768627_1280x720.jpg",
+            "imageUrlApp": "",
+            "imageUrlWeb": "",
+            "appImageBM": "",
+            "webImageBM": "",
+            "contentType": "MOVIES",
+            "contentShowType": "VOD_MOVIES",
+            "subTitles": [
+              "Action"
+            ],
+            "position": 2,
+            "contractName": "FREE",
+            "entitlements": [
+              ""
+            ],
+            "duration": "02:10:00",
+            "genre": [
+              "Action"
+            ],
+            "language": [
+              "English"
+            ],
+            "allowedOnBrowsers": true,
+            "provider": "Hungama",
+            "providerContentId": "64768627",
+            "blackOut": false,
+            "categoryType": "DEFAULT",
+            "hdChannel": false,
+            "rating": "",
+            "rentalPrice": "0",
+            "summary": "The story of two outlaws and a bounty hunter in 1940s Manchuria and their rivalry to possess a treasure map while being pursued by the Japanese army and Chinese bandits.",
+            "pageType": "",
+            "partnerId": 6,
+            "partnerSubscriptionType": "premium",
+            "posterTitle": "YES",
+            "appContentList": [
+              
+            ],
+            "backgroundImage": "https://images.hungama.com/c/1/eb8/a25/64768627/64768627_1280x720.jpg",
+            "trailerUrl": "",
+            "layoutType": "",
+            "railId": "",
+            "heroBannerType": "",
+            "releaseYear": "2008",
+            "masterRating": "",
+            "freeEpisodesAvailable": false,
+            "liveContent": false,
+            "packName": "",
+            "screenName": "",
+            "partnerTrailerInfo": "",
+            "gamePlayCount": "",
+            "playUrl": "",
+            "adPlayUrl": "",
+            "gameRating": 0.0,
+            "actor": [
+              "Kang-ho Song",
+              " Byung-hun Lee",
+              " Woo-sung Jung"
+            ],
+            "imageUrlOpenFs": "",
+            "imageUrlSmartTv": "",
+            "imageUrlSamsung": "",
+            "imageUrlLg": "",
+            "dashWideWineTrailerUrl": "",
+            "hlsConsumerTrailerUrl": "",
+            "buttonText": "",
+            "bannerText": "",
+            "newImage": "",
+            "newBackgroundImage": "",
+            "buttonCTACheck": true,
+            "allowedPlatformList": [
+              "BINGE_ANYWHERE_ANDROID",
+              "BINGE_ANYWHERE_IOS",
+              "TABLET",
+              "LG",
+              "OPEN_FS",
+              "SAMSUNG",
+              "BINGE_ANYWHERE_WEB",
+              "ATV",
+              "DONGLE",
+              "SMART_TV"
+            ],
+            "appPosterImageBM": "https://images.hungama.com/c/1/eb8/a25/64768627/64768627_1280x720.jpg",
+            "boxCoverImage": "https://images.hungama.com/c/1/eb8/a25/64768627/64768627_1280x720.jpg",
+            "fallback": false,
+            "appFallbackContentList": [
+              
+            ],
+            "trailerFromCMS": false,
+            "isTrailerFromCMS": false
+          },
+          {
+            "id": 171786,
+            "title": "High School Musical: The Musical: The Series: The Special",
+            "titleBrief": "High School Musical: The Musical: The Series: The Special",
+            "titleMedium": "High School Musical: The Musical: The Series: The Special",
+            "titleSortName": "High School Musical: The Musical: The Series: The Special",
+            "image": "https://img.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/161/650161-h",
+            "imageUrlApp": "",
+            "imageUrlWeb": "",
+            "appImageBM": "",
+            "webImageBM": "",
+            "contentType": "MOVIES",
+            "contentShowType": "VOD_MOVIES",
+            "subTitles": [
+              "Kids",
+              "Musical",
+              "Teen"
+            ],
+            "position": 3,
+            "contractName": "FREE",
+            "entitlements": [
+              ""
+            ],
+            "duration": "00:23:12",
+            "genre": [
+              "Kids",
+              "Musical",
+              "Teen"
+            ],
+            "language": [
+              "English"
+            ],
+            "allowedOnBrowsers": true,
+            "provider": "Hotstar",
+            "providerContentId": "1260022142",
+            "blackOut": false,
+            "categoryType": "DEFAULT",
+            "hdChannel": false,
+            "rating": "U/A 7+",
+            "rentalPrice": "0",
+            "summary": "The special explores the impact of the original High School Musical movies. And, teaches a new song and dance numbers by the stars of the show!",
+            "pageType": "",
+            "partnerId": 1,
+            "partnerSubscriptionType": "premium",
+            "posterTitle": "YES",
+            "appContentList": [
+              
+            ],
+            "backgroundImage": "https://img.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/161/650161-h",
+            "trailerUrl": "",
+            "layoutType": "",
+            "railId": "",
+            "heroBannerType": "",
+            "releaseYear": "2019",
+            "masterRating": "",
+            "freeEpisodesAvailable": false,
+            "liveContent": false,
+            "packName": "",
+            "screenName": "",
+            "partnerTrailerInfo": "",
+            "gamePlayCount": "",
+            "playUrl": "",
+            "adPlayUrl": "",
+            "gameRating": 0.0,
+            "actor": [
+              "Olivia Rodrigo",
+              " Joshua Bassett",
+              " Sofia Wylie"
+            ],
+            "imageUrlOpenFs": "",
+            "imageUrlSmartTv": "",
+            "imageUrlSamsung": "",
+            "imageUrlLg": "",
+            "dashWideWineTrailerUrl": "",
+            "hlsConsumerTrailerUrl": "",
+            "buttonText": "",
+            "bannerText": "",
+            "newImage": "",
+            "newBackgroundImage": "",
+            "buttonCTACheck": true,
+            "allowedPlatformList": [
+              "BINGE_ANYWHERE_ANDROID",
+              "BINGE_ANYWHERE_IOS",
+              "TABLET",
+              "LG",
+              "OPEN_FS",
+              "SAMSUNG",
+              "BINGE_ANYWHERE_WEB",
+              "ATV",
+              "DONGLE",
+              "SMART_TV"
+            ],
+            "appPosterImageBM": "https://img.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/161/650161-h",
+            "boxCoverImage": "https://img.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/161/650161-h",
+            "fallback": false,
+            "appFallbackContentList": [
+              
+            ],
+            "trailerFromCMS": false,
+            "isTrailerFromCMS": false
+          },
+          {
+            "id": 1726139736869,
+            "title": "Static Hero Banner",
+            "titleBrief": "",
+            "titleMedium": "",
+            "titleSortName": "",
+            "image": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlApp": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139727421.jpg",
+            "imageUrlWeb": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139734478.jpg",
+            "appImageBM": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139727421.jpg",
+            "webImageBM": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139734478.jpg",
+            "contentType": "CUSTOM_STATIC_HB",
+            "contentShowType": "",
+            "subTitles": [
+              ""
+            ],
+            "position": 4,
+            "allowedOnBrowsers": true,
+            "provider": "",
+            "providerContentId": "",
+            "blackOut": false,
+            "hdChannel": false,
+            "pageType": "",
+            "partnerId": 0,
+            "posterTitle": "",
+            "appContentList": [
+              
+            ],
+            "backgroundImage": "",
+            "layoutType": "",
+            "railId": "",
+            "heroBannerType": "",
+            "freeEpisodesAvailable": false,
+            "liveContent": false,
+            "packName": "",
+            "screenName": "",
+            "partnerTrailerInfo": "",
+            "imageUrlOpenFs": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlSmartTv": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlSamsung": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "imageUrlLg": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "buttonText": "",
+            "bannerText": "",
+            "newImage": "",
+            "newBackgroundImage": "",
+            "buttonCTACheck": true,
+            "allowedPlatformList": [
+              "DONGLE",
+              "OPEN_FS",
+              "SMART_TV",
+              "SAMSUNG",
+              "LG",
+              "TABLET",
+              "BINGE_ANYWHERE_IOS",
+              "BINGE_ANYWHERE_ANDROID",
+              "BINGE_ANYWHERE_WEB"
+            ],
+            "appPosterImageBM": "https://uat.tstatic.videoready.tv/cms-ui/images/custom-content/1726139717797.jpg",
+            "fallback": false,
+            "appFallbackContentList": [
+              
+            ],
+            "trailerFromCMS": false,
+            "isTrailerFromCMS": false
+          },
+          {
+            "id": 277,
+            "title": "GlewedTV The Vault",
+            "titleBrief": "",
+            "titleMedium": "",
+            "titleSortName": "",
+            "image": "https://a.jsrdn.com/hls/22864/glewedtv-the-vault/thumbh_20200917_222920.jpg",
+            "imageUrlApp": "",
+            "imageUrlWeb": "",
+            "appImageBM": "",
+            "webImageBM": "",
+            "contentType": "LIVE",
+            "contentShowType": "",
+            "subTitles": [
+              "English"
+            ],
+            "position": 6,
+            "logo": "https://a.jsrdn.com/hls/22864/glewedtv-the-vault/thumbh_20200917_222920.jpg",
+            "genre": [
+              "Entertainment"
+            ],
+            "language": [
+              "English"
+            ],
+            "allowedOnBrowsers": true,
+            "provider": "DistroTV",
+            "providerContentId": "22864",
+            "blackOut": false,
+            "channelName": "GlewedTV The Vault",
+            "hdChannel": false,
+            "transparentImageUrl": "https://a.jsrdn.com/hls/22864/glewedtv-the-vault/extras/280_logo.png",
+            "pageType": "",
+            "partnerId": 0,
+            "partnerSubscriptionType": "free",
+            "posterTitle": "",
+            "appContentList": [
+              
+            ],
+            "backgroundImage": "",
+            "layoutType": "",
+            "railId": "",
+            "heroBannerType": "",
+            "freeEpisodesAvailable": false,
+            "liveContent": false,
+            "packName": "",
+            "screenName": "",
+            "partnerTrailerInfo": "",
+            "imageUrlOpenFs": "",
+            "imageUrlSmartTv": "",
+            "imageUrlSamsung": "",
+            "imageUrlLg": "",
+            "buttonText": "",
+            "bannerText": "",
+            "newImage": "",
+            "newBackgroundImage": "",
+            "buttonCTACheck": true,
+            "allowedPlatformList": [
+              "DONGLE",
+              "OPEN_FS",
+              "SMART_TV",
+              "SAMSUNG",
+              "LG",
+              "TABLET",
+              "BINGE_ANYWHERE_IOS",
+              "BINGE_ANYWHERE_ANDROID",
+              "BINGE_ANYWHERE_WEB"
+            ],
+            "fallback": false,
+            "appFallbackContentList": [
+              
+            ],
+            "trailerFromCMS": false,
+            "isTrailerFromCMS": false
+          }
+        ],
+        "taFallbackContentList": [
+          
+        ],
+        "autoScroll": false,
+        "totalCount": 5,
+        "position": 11,
+        "configType": "Editorial",
+        "pageType": "DONGLE_MOVIES_1",
+        "specialRail": false,
+        "subscribed": true,
+        "unSubscribed": true,
+        "backgroundImage": "",
+        "packName": "All",
+        "language": "",
+        "buttonCTAText": "Play Now",
+        "associatedFaqIds": [
+          ""
+        ],
+        "footerIds": [
+          ""
+        ],
+        "headerDesc": "",
+        "footerDesc": "Never miss out on a <category> release. Watch the latest <Category Name> like <Top 5 titles> from 30+ OTT apps all in one on Tata Play Binge. Your One-stop destination for Live Sports, Movies, web series and TV shows !",
+        "metaTag": {
+          "title": "Watch trending NTR movies1",
+          "description": "Watch trending NTR movies1"
+        },
+        "fallbackContentList": [
+          
+        ],
+        "genreFilterList": [
+          
+        ],
+        "promoText": "",
+        "providerPromoImage": ""
+      },
+      {
+        "id": 24988,
+        "title": "Language1 movies for you",
+        "sectionType": "RAIL",
+        "sectionSource": "RECOMMENDATION",
+        "layoutType": "LANDSCAPE",
+        "imageMetadata": {
+          "cardSize": "SMALL"
+        },
+        "editorialPlatformList": [
+          "DONGLE",
+          "ATV",
+          "OPEN_FS",
+          "SMART_TV",
+          "SAMSUNG",
+          "LG",
+          "TABLET",
+          "BINGE_ANYWHERE_IOS",
+          "BINGE_ANYWHERE_ANDROID",
+          "BINGE_ANYWHERE_WEB"
+        ],
+        "shuffleList": [
+          
+        ],
+        "contentList": [
+          
+        ],
+        "taFallbackContentList": [
+          
+        ],
+        "autoScroll": false,
+        "totalCount": 0,
+        "position": 23,
+        "configType": "Editorial",
+        "pageType": "DONGLE_MOVIES_1",
+        "specialRail": false,
+        "placeHolder": "MOVIES_LANGUAGE_1",
+        "subscribed": true,
+        "unSubscribed": true,
+        "recommendationPosition": "PREPEND",
+        "backgroundImage": "",
+        "packName": "All",
+        "language": "",
+        "buttonCTAText": "Play Now",
+        "recRailPosition": "PREPEND",
+        "associatedFaqIds": [
+          ""
+        ],
+        "footerIds": [
+          ""
+        ],
+        "headerDesc": "Watch Language1 movies for you from 30+ OTT apps in 1 on Tata Play Binge app",
+        "footerDesc": "Watch Language1 movies for you from 30+ OTT apps in 1 on Tata Play Binge app",
+        "metaTag": {
+          "title": "Watch the best of movies from 30+ OTT apps in 1 app.",
+          "description": "Watch your favourite Language1 movies for you and the latest Movies, Web Series & TV Shows from 30+ OTT apps only on Tata Play Binge. Your one stop destination for all entertainment needs."
+        },
+        "fallbackContentList": [
+          
+        ],
+        "genreFilterList": [
+          
+        ],
+        "promoText": "",
+        "providerPromoImage": ""
+      },
+      
+    ],
+    "total": 63,
+    "offset": 0,
+    "limit": 10
+  },
+  "status": 0
+}
