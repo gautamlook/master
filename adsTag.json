@@ -14,7 +14,7 @@
             "timeOffset": "start",
             "timeOffset_seconds": 0,
             "adTagURI": [
-              "https://pubads.g.doubleclick.net/gampad/ads?iu=/339474670,53604933/CTV2/FlixHouse_FireTV&description_url=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB07MCGRF24&tfcd=0&npa=0&sz=640x480&min_ad_duration=15000&max_ad_duration=90000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=&vad_type=linear&url=https://www.amazon.com/gp/product/B07MCGRF24",
+              "https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/single_ad_samples&sz=640x480&cust_params=sample_ct%3Dlinear&ciu_szs=300x250%2C728x90&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=",
                 "https://onlinechannel.io/vmaps/11/xml?requestfrmplatform=rokutv&devicemodel=3940X2&contentid=b22db2900cdbd7f820f43e397c6b95c4&deviceid=3e19f187-3804-57e8-85ec-74f18a31fead&deviceip=116.75.246.132&rokutrackingid=b9986daf-39bc-5f2d-8f9f-e883827a8050=&useragent=Roku%2FDVP-14.0%20%2814.0.4.12221-E4%29"
             ]
         },
@@ -22,7 +22,7 @@
             "timeOffset": "end",
             "timeOffset_seconds": 0,
              "adTagURI": [
-              "https://pubads.g.doubleclick.net/gampad/ads?iu=/339474670,53604933/CTV2/FlixHouse_FireTV&description_url=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB07MCGRF24&tfcd=0&npa=0&sz=640x480&min_ad_duration=15000&max_ad_duration=90000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=&vad_type=linear&url=https://www.amazon.com/gp/product/B07MCGRF24",
+              "ttps://pubads.g.doubleclick.net/gampad/ads?iu=/339474670,53604933/CTV2/FlixHouse_FireTV&description_url=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB07MCGRF24&tfcd=0&npa=0&sz=640x480&min_ad_duration=15000&max_ad_duration=90000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=&vad_type=linear&url=https://www.amazon.com/gp/product/B07MCGRF24",
                 "https://pubads.g.doubleclick.net/gampad/ads?iu=/22893903952,53604933/flixhouse.comCTVamazon&description_url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator={cb}&url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&vpos=midroll&rdid={device_id}&is_lat=0&idtype=afai&an=B07MCGRF24&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0"
             ]
         },
@@ -31,7 +31,7 @@
             "timeOffset_seconds": 600,
             "adTagURI": [
               "https://onlinechannel.io/vmaps/11/xml?requestfrmplatform=rokutv&devicemodel=3940X2&contentid=b22db2900cdbd7f820f43e397c6b95c4&deviceid=3e19f187-3804-57e8-85ec-74f18a31fead&deviceip=116.75.246.132&rokutrackingid=b9986daf-39bc-5f2d-8f9f-e883827a8050=&useragent=Roku%2FDVP-14.0%20%2814.0.4.12221-E4%29",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=/22893903952,53604933/flixhouse.comCTVamazon&description_url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator={cb}&url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&vpos=midroll&rdid={device_id}&is_lat=0&idtype=afai&an=B07MCGRF24&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0"
+                "https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/single_preroll_skippable&sz=640x480&ciu_szs=300x250%2C728x90&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator="
             ]
         },
         {
