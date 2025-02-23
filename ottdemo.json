@@ -28,6 +28,89 @@
         }
       ]
     },
+   {
+      "id": "1",
+      "name": "Radio icons",
+      "category_slug": "men's-fashion",
+      "category_type": "R",
+      "data": [
+        {
+          "id": "2",
+          "name": "T-Shirt",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+        },
+        {
+          "id": "3",
+          "name": "Panjabi & Fatua",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+        },
+        {
+          "id": "4",
+          "name": "Polo Shirts",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+        },
+        {
+          "id": "5",
+          "name": "Jeans",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+        },
+        {
+          "id": "6",
+          "name": "Men's Sweaters ",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+        },
+        {
+          "id": "2",
+          "name": "T-Shirt",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+        },
+        {
+          "id": "3",
+          "name": "Panjabi & Fatua",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+        },
+        {
+          "id": "4",
+          "name": "Polo Shirts",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+        },
+        {
+          "id": "5",
+          "name": "Jeans",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+        },
+        {
+          "id": "6",
+          "name": "Men's Sweaters ",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+        },
+        {
+          "id": "2",
+          "name": "T-Shirt",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+        },
+        {
+          "id": "3",
+          "name": "Panjabi & Fatua",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+        },
+        {
+          "id": "4",
+          "name": "Polo Shirts",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+        },
+        {
+          "id": "5",
+          "name": "Jeans",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+        },
+        {
+          "id": "6",
+          "name": "Men's Sweaters ",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+        }
+      ]
+    },
     {
       "id": "1",
       "name": "Men's Fashion",
