@@ -8,23 +8,23 @@
       "data": [
         {
           "id": "2",
-          "name": "T-Shirt",
-          "category_slug": "https://i.ytimg.com/vi/T0Jqdjbed40/maxresdefault.jpg"
+          "name": "Poster 01",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/poster01.png"
         },
         {
           "id": "2",
-          "name": "T-Shirt",
-          "category_slug": "https://i.ytimg.com/vi/LK7-_dgAVQE/maxresdefault.jpg"
+          "name": "Poster 02",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/poster02.png"
         },
         {
           "id": "2",
-          "name": "T-Shirt",
-          "category_slug": "https://i.ytimg.com/vi/qNFqdoTjYW4/maxresdefault.jpg"
+          "name": "Poster 03",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/poster03.png"
         },
         {
           "id": "2",
-          "name": "T-Shirt",
-          "category_slug": "https://i.ytimg.com/vi/Y26pV0dulZI/maxresdefault.jpg"
+          "name": "Poster 04",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/poster01.png"
         }
       ]
     },
