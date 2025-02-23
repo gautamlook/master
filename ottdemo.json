@@ -8,22 +8,22 @@
       "data": [
         {
           "id": "2",
-          "name": "Poster 01",
+          "name": "",
           "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/poster01.png"
         },
         {
           "id": "2",
-          "name": "Poster 02",
+          "name": "",
           "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/poster02.png"
         },
         {
           "id": "2",
-          "name": "Poster 03",
+          "name": "",
           "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/poster03.png"
         },
         {
           "id": "2",
-          "name": "Poster 04",
+          "name": "",
           "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/poster01.png"
         }
       ]
