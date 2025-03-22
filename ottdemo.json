@@ -28,7 +28,7 @@
         }
       ]
     },
-   {
+    {
       "id": "1",
       "name": "Radio icons",
       "category_slug": "men's-fashion",
@@ -40,15 +40,15 @@
           "image": "https://tamilfmradios.com/images/radioraagini.webp",
           "url": "http://malta2044.startdedicated.com:8090/stream",
           "cat": "Hindi,Bollywood,Web",
-            "category_slug":""
+         
         },
-         {
+        {
           "id": "3",
           "name": "Aashiqanaa",
-          "image": "https://onlineradiofm.in/assets/image/radio/180/radioaashiqanaa.png"
+          "image": "https://onlineradiofm.in/assets/image/radio/180/radioaashiqanaa.png",
           "url": "https://sonic.onlineaudience.co.uk/8114/stream",
           "cat": "Hindi,Bollywood,Web",
-           "category_slug":""
+      
         },
         {
           "id": "4",
@@ -117,7 +117,7 @@
         }
       ]
     },
-      {
+    {
       "id": "1",
       "name": "Actors icons",
       "category_slug": "men's-fashion",
