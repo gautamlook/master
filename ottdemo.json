@@ -34,21 +34,15 @@
       "category_slug": "men's-fashion",
       "category_type": "R",
       "data": [
-        {
-          "id": "2",
-          "name": "Radio Ragini",
-          "image": "https://tamilfmradios.com/images/radioraagini.webp",
-          "url": "http://malta2044.startdedicated.com:8090/stream",
-          "cat": "Hindi,Bollywood,Web",
-         
+         {
+          "id": "4",
+          "name": "Polo Shirts",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
         },
-        {
-          "id": "3",
-          "name": "Aashiqanaa",
-          "image": "https://onlineradiofm.in/assets/image/radio/180/radioaashiqanaa.png",
-          "url": "https://sonic.onlineaudience.co.uk/8114/stream",
-          "cat": "Hindi,Bollywood,Web",
-      
+         {
+          "id": "4",
+          "name": "Polo Shirts",
+          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
         },
         {
           "id": "4",
