@@ -36,13 +36,19 @@
       "data": [
         {
           "id": "2",
-          "name": "T-Shirt",
-          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+          "name": "Radio Ragini",
+          "image": "https://tamilfmradios.com/images/radioraagini.webp",
+          "url": "http://malta2044.startdedicated.com:8090/stream",
+          "cat": "Hindi,Bollywood,Web",
+            "category_slug":""
         },
-        {
+         {
           "id": "3",
-          "name": "Panjabi & Fatua",
-          "category_slug": "https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/radio.png"
+          "name": "Aashiqanaa",
+          "image": "https://onlineradiofm.in/assets/image/radio/180/radioaashiqanaa.png"
+          "url": "https://sonic.onlineaudience.co.uk/8114/stream",
+          "cat": "Hindi,Bollywood,Web",
+           "category_slug":""
         },
         {
           "id": "4",
