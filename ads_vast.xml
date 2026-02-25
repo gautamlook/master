@@ -1,0 +1,16 @@
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+<vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
+<vmap:AdSource id="preroll-ad-1" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/preroll1.xml]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="end" breakType="linear" breakId="postroll">
+<vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/postroll1.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+</vmap:VMAP>
