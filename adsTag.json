@@ -1,191 +1,60 @@
-{
-    "videos_id": 5098,
-    "cleanKey": null,
-    "live_servers_id": null,
-    "liveLink": null,
-    "content_page_url": "https://flixhouse.com/video/5098/devil-s-five",
-    "video_duration_seconds": 0,
-    "video_duration": "1:57:26",
-    "name": "Devil's Five",
-    "users_id": false,
-    "showAds": true,
-    "vmap": [
-        {
-            "timeOffset": "start",
-            "timeOffset_seconds": 0,
-            "adTagURI": [
-              "https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/single_ad_samples&sz=640x480&cust_params=sample_ct%3Dlinear&ciu_szs=300x250%2C728x90&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=",
-                "https://onlinechannel.io/vmaps/11/xml?requestfrmplatform=rokutv&devicemodel=3940X2&contentid=b22db2900cdbd7f820f43e397c6b95c4&deviceid=3e19f187-3804-57e8-85ec-74f18a31fead&deviceip=116.75.246.132&rokutrackingid=b9986daf-39bc-5f2d-8f9f-e883827a8050=&useragent=Roku%2FDVP-14.0%20%2814.0.4.12221-E4%29"
-            ]
-        },
-        {
-            "timeOffset": "end",
-            "timeOffset_seconds": 0,
-             "adTagURI": [
-              "ttps://pubads.g.doubleclick.net/gampad/ads?iu=/339474670,53604933/CTV2/FlixHouse_FireTV&description_url=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB07MCGRF24&tfcd=0&npa=0&sz=640x480&min_ad_duration=15000&max_ad_duration=90000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=&vad_type=linear&url=https://www.amazon.com/gp/product/B07MCGRF24",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=/22893903952,53604933/flixhouse.comCTVamazon&description_url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator={cb}&url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&vpos=midroll&rdid={device_id}&is_lat=0&idtype=afai&an=B07MCGRF24&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0"
-            ]
-        },
-        {
-            "timeOffset": "00:10:00.000",
-            "timeOffset_seconds": 600,
-            "adTagURI": [
-              "https://onlinechannel.io/vmaps/11/xml?requestfrmplatform=rokutv&devicemodel=3940X2&contentid=b22db2900cdbd7f820f43e397c6b95c4&deviceid=3e19f187-3804-57e8-85ec-74f18a31fead&deviceip=116.75.246.132&rokutrackingid=b9986daf-39bc-5f2d-8f9f-e883827a8050=&useragent=Roku%2FDVP-14.0%20%2814.0.4.12221-E4%29",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/single_preroll_skippable&sz=640x480&ciu_szs=300x250%2C728x90&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator="
-            ]
-        },
-        {
-            "timeOffset": "00:20:00.000",
-            "timeOffset_seconds": 1200,
-             "adTagURI": [
-              "https://pubads.g.doubleclick.net/gampad/ads?iu=/339474670,53604933/CTV2/FlixHouse_FireTV&description_url=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB07MCGRF24&tfcd=0&npa=0&sz=640x480&min_ad_duration=15000&max_ad_duration=90000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=&vad_type=linear&url=https://www.amazon.com/gp/product/B07MCGRF24",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=/22893903952,53604933/flixhouse.comCTVamazon&description_url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator={cb}&url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&vpos=midroll&rdid={device_id}&is_lat=0&idtype=afai&an=B07MCGRF24&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0"
-            ]
-        },
-        {
-            "timeOffset": "00:30:00.000",
-            "timeOffset_seconds": 1800,
-             "adTagURI": [
-              "https://pubads.g.doubleclick.net/gampad/ads?iu=/339474670,53604933/CTV2/FlixHouse_FireTV&description_url=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB07MCGRF24&tfcd=0&npa=0&sz=640x480&min_ad_duration=15000&max_ad_duration=90000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=&vad_type=linear&url=https://www.amazon.com/gp/product/B07MCGRF24",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=/22893903952,53604933/flixhouse.comCTVamazon&description_url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator={cb}&url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&vpos=midroll&rdid={device_id}&is_lat=0&idtype=afai&an=B07MCGRF24&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0"
-            ]
-        },
-        {
-            "timeOffset": "00:40:00.000",
-            "timeOffset_seconds": 2400,
-             "adTagURI": [
-              "https://pubads.g.doubleclick.net/gampad/ads?iu=/339474670,53604933/CTV2/FlixHouse_FireTV&description_url=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB07MCGRF24&tfcd=0&npa=0&sz=640x480&min_ad_duration=15000&max_ad_duration=90000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=&vad_type=linear&url=https://www.amazon.com/gp/product/B07MCGRF24",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=/22893903952,53604933/flixhouse.comCTVamazon&description_url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator={cb}&url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&vpos=midroll&rdid={device_id}&is_lat=0&idtype=afai&an=B07MCGRF24&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0"
-            ]
-        },
-        {
-            "timeOffset": "00:50:00.000",
-            "timeOffset_seconds": 3000,
-            "adTagURI": [
-              "https://pubads.g.doubleclick.net/gampad/ads?iu=/339474670,53604933/CTV2/FlixHouse_FireTV&description_url=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB07MCGRF24&tfcd=0&npa=0&sz=640x480&min_ad_duration=15000&max_ad_duration=90000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=&vad_type=linear&url=https://www.amazon.com/gp/product/B07MCGRF24",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=/22893903952,53604933/flixhouse.comCTVamazon&description_url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator={cb}&url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&vpos=midroll&rdid={device_id}&is_lat=0&idtype=afai&an=B07MCGRF24&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0"
-            ]
-        },
-        {
-            "timeOffset": "01:00:00.000",
-            "timeOffset_seconds": 3600,
-             "adTagURI": [
-              "https://pubads.g.doubleclick.net/gampad/ads?iu=/339474670,53604933/CTV2/FlixHouse_FireTV&description_url=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB07MCGRF24&tfcd=0&npa=0&sz=640x480&min_ad_duration=15000&max_ad_duration=90000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=&vad_type=linear&url=https://www.amazon.com/gp/product/B07MCGRF24",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=/22893903952,53604933/flixhouse.comCTVamazon&description_url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator={cb}&url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&vpos=midroll&rdid={device_id}&is_lat=0&idtype=afai&an=B07MCGRF24&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0"
-            ]
-        },
-        {
-            "timeOffset": "01:10:00.000",
-            "timeOffset_seconds": 4200,
-             "adTagURI": [
-              "https://pubads.g.doubleclick.net/gampad/ads?iu=/339474670,53604933/CTV2/FlixHouse_FireTV&description_url=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB07MCGRF24&tfcd=0&npa=0&sz=640x480&min_ad_duration=15000&max_ad_duration=90000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=&vad_type=linear&url=https://www.amazon.com/gp/product/B07MCGRF24",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=/22893903952,53604933/flixhouse.comCTVamazon&description_url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator={cb}&url=https%3A%2F%2Fwww.amazon.com%2FFlixHouse-LLC%2Fdp%2FB07MCGRF24&vpos=midroll&rdid={device_id}&is_lat=0&idtype=afai&an=B07MCGRF24&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0"
-            ]
-        },
-        {
-            "timeOffset": "01:20:00.000",
-            "timeOffset_seconds": 4800,
-            "adTagURI": [
-                "https://trailers.flixhouse.com/plugin/AD_Server/VAST.php?campaign_has_videos_id=1&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=%2F22893903952%2C53604933%2Fflixhouse.comCTVAndroidTV&description_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator=434395396&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&vpos=preroll&rdid=6e44894b-21d0-4af9-b012-ee0db89cc175&is_lat=0&idtype=adid&an=com.flixhouse&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1"
-            ]
-        },
-        {
-            "timeOffset": "01:30:00.000",
-            "timeOffset_seconds": 5400,
-            "adTagURI": [
-                "https://trailers.flixhouse.com/plugin/AD_Server/VAST.php?campaign_has_videos_id=1&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=%2F22893903952%2C53604933%2Fflixhouse.comCTVAndroidTV&description_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator=434395396&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&vpos=preroll&rdid=6e44894b-21d0-4af9-b012-ee0db89cc175&is_lat=0&idtype=adid&an=com.flixhouse&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1"
-            ]
-        },
-        {
-            "timeOffset": "01:40:00.000",
-            "timeOffset_seconds": 6000,
-            "adTagURI": [
-                "https://trailers.flixhouse.com/plugin/AD_Server/VAST.php?campaign_has_videos_id=1&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=%2F22893903952%2C53604933%2Fflixhouse.comCTVAndroidTV&description_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator=434395396&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&vpos=preroll&rdid=6e44894b-21d0-4af9-b012-ee0db89cc175&is_lat=0&idtype=adid&an=com.flixhouse&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1"
-            ]
-        },
-        {
-            "timeOffset": "01:50:00.000",
-            "timeOffset_seconds": 6600,
-            "adTagURI": [
-                "https://trailers.flixhouse.com/plugin/AD_Server/VAST.php?campaign_has_videos_id=1&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=%2F22893903952%2C53604933%2Fflixhouse.comCTVAndroidTV&description_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator=434395396&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&vpos=preroll&rdid=6e44894b-21d0-4af9-b012-ee0db89cc175&is_lat=0&idtype=adid&an=com.flixhouse&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1"
-            ]
-        },
-        {
-            "timeOffset": "02:00:00.000",
-            "timeOffset_seconds": 7200,
-            "adTagURI": [
-                "https://trailers.flixhouse.com/plugin/AD_Server/VAST.php?campaign_has_videos_id=1&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=%2F22893903952%2C53604933%2Fflixhouse.comCTVAndroidTV&description_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator=434395396&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&vpos=preroll&rdid=6e44894b-21d0-4af9-b012-ee0db89cc175&is_lat=0&idtype=adid&an=com.flixhouse&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1"
-            ]
-        },
-        {
-            "timeOffset": "02:10:00.000",
-            "timeOffset_seconds": 7800,
-            "adTagURI": [
-                "https://trailers.flixhouse.com/plugin/AD_Server/VAST.php?campaign_has_videos_id=1&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=%2F22893903952%2C53604933%2Fflixhouse.comCTVAndroidTV&description_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator=434395396&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&vpos=preroll&rdid=6e44894b-21d0-4af9-b012-ee0db89cc175&is_lat=0&idtype=adid&an=com.flixhouse&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1"
-            ]
-        },
-        {
-            "timeOffset": "02:20:00.000",
-            "timeOffset_seconds": 8400,
-            "adTagURI": [
-                "https://trailers.flixhouse.com/plugin/AD_Server/VAST.php?campaign_has_videos_id=1&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=%2F22893903952%2C53604933%2Fflixhouse.comCTVAndroidTV&description_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator=434395396&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&vpos=preroll&rdid=6e44894b-21d0-4af9-b012-ee0db89cc175&is_lat=0&idtype=adid&an=com.flixhouse&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1"
-            ]
-        },
-        {
-            "timeOffset": "02:30:00.000",
-            "timeOffset_seconds": 9000,
-            "adTagURI": [
-                "https://trailers.flixhouse.com/plugin/AD_Server/VAST.php?campaign_has_videos_id=1&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=%2F22893903952%2C53604933%2Fflixhouse.comCTVAndroidTV&description_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator=434395396&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&vpos=preroll&rdid=6e44894b-21d0-4af9-b012-ee0db89cc175&is_lat=0&idtype=adid&an=com.flixhouse&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1"
-            ]
-        },
-        {
-            "timeOffset": "02:40:00.000",
-            "timeOffset_seconds": 9600,
-            "adTagURI": [
-                "https://trailers.flixhouse.com/plugin/AD_Server/VAST.php?campaign_has_videos_id=1&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=%2F22893903952%2C53604933%2Fflixhouse.comCTVAndroidTV&description_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator=434395396&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&vpos=preroll&rdid=6e44894b-21d0-4af9-b012-ee0db89cc175&is_lat=0&idtype=adid&an=com.flixhouse&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1"
-            ]
-        },
-        {
-            "timeOffset": "02:50:00.000",
-            "timeOffset_seconds": 10200,
-            "adTagURI": [
-                "https://trailers.flixhouse.com/plugin/AD_Server/VAST.php?campaign_has_videos_id=1&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1",
-                "https://pubads.g.doubleclick.net/gampad/ads?iu=%2F22893903952%2C53604933%2Fflixhouse.comCTVAndroidTV&description_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&tfcd=0&npa=0&ad_type=audio_video&sz=1x1%7C300x250%7C320x480%7C400x300%7C412x231%7C432x243%7C480x320%7C640x480%7C650x365%7C832x468%7C1280x720%7C1920x1080&min_ad_duration=1000&max_ad_duration=60000&gdfp_req=1&unviewed_position_start=1&correlator=434395396&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.flixhouse&vpos=preroll&rdid=6e44894b-21d0-4af9-b012-ee0db89cc175&is_lat=0&idtype=adid&an=com.flixhouse&output=vast&env=instream&wta=0&plcmt=1&vpa=auto&vpmute=0&ad_rule=0&ifa=f99177f9-eee3-41cb-af24-e272280af96f&lmt=1"
-            ]
-        }
-    ],
-    "channelName": "M-ENT",
-    "category": "Horror",
-    "clean_title": "devil-s-five",
-    "timeOffsets": [
-        "start",
-        "end",
-        "00:10:00.000",
-        "00:20:00.000",
-        "00:30:00.000",
-        "00:40:00.000",
-        "00:50:00.000",
-        "01:00:00.000",
-        "01:10:00.000",
-        "01:20:00.000",
-        "01:30:00.000",
-        "01:40:00.000",
-        "01:50:00.000",
-        "02:00:00.000",
-        "02:10:00.000",
-        "02:20:00.000",
-        "02:30:00.000",
-        "02:40:00.000",
-        "02:50:00.000"
-    ],
-    "optionalAdTagUrl": 3
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<vmap:VMAP version="1.0" xmlns:vmap="http://www.iab.net/videosuite/vmap">
+
+<vmap:AdBreak timeOffset="start" breakType="standard" breakId="amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_start_PRE_ROLL">
+<vmap:AdSource id="1">
+<vmap:VASTAdData>
+<VAST version="3.0"></VAST>
+</vmap:VASTAdData>
+</vmap:AdSource>
+</vmap:AdBreak>
+
+<vmap:AdBreak timeOffset="00:04:36.209" breakType="standard" breakId="amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00:04:36.209_MID_ROLL_0">
+<vmap:AdSource id="1">
+<vmap:AdTagURI><![CDATA[
+https://amxp.gateway.mxplayer.in/minitv/api/videoads/ad-break?ad-break-id=amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00%3A04%3A36.209_MID_ROLL_0&video-stream-id=24d29e57-3163-46f0-9a6e-200a2a838985&ads-response-type=player&ads-request-type=REAL_TIME_DATA
+]]></vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+
+<vmap:AdBreak timeOffset="00:14:30.135" breakType="standard" breakId="amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00:14:30.135_MID_ROLL_1">
+<vmap:AdSource id="1">
+<vmap:AdTagURI><![CDATA[
+https://amxp.gateway.mxplayer.in/minitv/api/videoads/ad-break?ad-break-id=amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00%3A14%3A30.135_MID_ROLL_1&video-stream-id=24d29e57-3163-46f0-9a6e-200a2a838985&ads-response-type=player&ads-request-type=REAL_TIME_DATA
+]]></vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+
+<vmap:AdBreak timeOffset="00:24:34.105" breakType="standard" breakId="amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00:24:34.105_MID_ROLL_2">
+<vmap:AdSource id="1">
+<vmap:AdTagURI><![CDATA[
+https://amxp.gateway.mxplayer.in/minitv/api/videoads/ad-break?ad-break-id=amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00%3A24%3A34.105_MID_ROLL_2&video-stream-id=24d29e57-3163-46f0-9a6e-200a2a838985&ads-response-type=player&ads-request-type=REAL_TIME_DATA
+]]></vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+
+<vmap:AdBreak timeOffset="00:35:28.059" breakType="standard" breakId="amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00:35:28.059_MID_ROLL_3">
+<vmap:AdSource id="1">
+<vmap:AdTagURI><![CDATA[
+https://amxp.gateway.mxplayer.in/minitv/api/videoads/ad-break?ad-break-id=amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00%3A35%3A28.059_MID_ROLL_3&video-stream-id=24d29e57-3163-46f0-9a6e-200a2a838985&ads-response-type=player&ads-request-type=REAL_TIME_DATA
+]]></vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+
+<vmap:AdBreak timeOffset="00:45:20.384" breakType="standard" breakId="amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00:45:20.384_MID_ROLL_4">
+<vmap:AdSource id="1">
+<vmap:AdTagURI><![CDATA[
+https://amxp.gateway.mxplayer.in/minitv/api/videoads/ad-break?ad-break-id=amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00%3A45%3A20.384_MID_ROLL_4&video-stream-id=24d29e57-3163-46f0-9a6e-200a2a838985&ads-response-type=player&ads-request-type=REAL_TIME_DATA
+]]></vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+
+<vmap:AdBreak timeOffset="00:55:00.063" breakType="standard" breakId="amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00:55:00.063_MID_ROLL_5">
+<vmap:AdSource id="1">
+<vmap:AdTagURI><![CDATA[
+https://amxp.gateway.mxplayer.in/minitv/api/videoads/ad-break?ad-break-id=amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00%3A55%3A00.063_MID_ROLL_5&video-stream-id=24d29e57-3163-46f0-9a6e-200a2a838985&ads-response-type=player&ads-request-type=REAL_TIME_DATA
+]]></vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+
+</vmap:VMAP>
