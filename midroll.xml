@@ -1,5 +1,5 @@
 <VAST version="3.0">
-  <Ad id="preroll_1">
+  <Ad id="midroll_1">
     <InLine>
       <AdSystem>Custom</AdSystem>
       <AdTitle>Preroll Test Ad</AdTitle>
