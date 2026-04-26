@@ -7,7 +7,7 @@
     </vmap:AdSource>
   </vmap:AdBreak>
 
-  <vmap:AdBreak timeOffset="00:00:59.000" breakType="linear" breakId="midroll-1">
+  <vmap:AdBreak timeOffset="00:00:15.000" breakType="linear" breakId="midroll-1">
     <vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
       <vmap:AdTagURI templateType="vast3">
         <![CDATA[ https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/midroll.xml ]]>
