@@ -1,51 +1,30 @@
 <vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
-<vmap:AdBreak timeOffset="start" breakType="standard" breakId="amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_start_PRE_ROLL">
-<vmap:AdSource id="1">
-<vmap:VASTAdData>
-<VAST/>
-</vmap:VASTAdData>
-</vmap:AdSource>
-</vmap:AdBreak>
-<vmap:AdBreak timeOffset="00:04:36.209" breakType="standard" breakId="amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00:04:36.209_MID_ROLL_0">
-<vmap:AdSource id="1">
-<vmap:AdTagURI>
-<![CDATA[ https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/midroll.xml ]]>
-</vmap:AdTagURI>
-</vmap:AdSource>
-</vmap:AdBreak>
-<vmap:AdBreak timeOffset="00:14:30.135" breakType="standard" breakId="amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00:14:30.135_MID_ROLL_1">
-<vmap:AdSource id="1">
-<vmap:AdTagURI>
-<![CDATA[ https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/midroll.xml ]]>
-</vmap:AdTagURI>
-</vmap:AdSource>
-</vmap:AdBreak>
-<vmap:AdBreak timeOffset="00:24:34.105" breakType="standard" breakId="amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00:24:34.105_MID_ROLL_2">
-<vmap:AdSource id="1">
-<vmap:AdTagURI>
-<![CDATA[ https://amxp.gateway.mxplayer.in/minitv/api/videoads/ad-break?ad-break-id=amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00%3A24%3A34.105_MID_ROLL_2&video-stream-id=24d29e57-3163-46f0-9a6e-200a2a838985&ads-response-type=player&ads-request-type=REAL_TIME_DATA ]]>
-</vmap:AdTagURI>
-</vmap:AdSource>
-</vmap:AdBreak>
-<vmap:AdBreak timeOffset="00:35:28.059" breakType="standard" breakId="amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00:35:28.059_MID_ROLL_3">
-<vmap:AdSource id="1">
-<vmap:AdTagURI>
-<![CDATA[ https://amxp.gateway.mxplayer.in/minitv/api/videoads/ad-break?ad-break-id=amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00%3A35%3A28.059_MID_ROLL_3&video-stream-id=24d29e57-3163-46f0-9a6e-200a2a838985&ads-response-type=player&ads-request-type=REAL_TIME_DATA ]]>
-</vmap:AdTagURI>
-</vmap:AdSource>
-</vmap:AdBreak>
-<vmap:AdBreak timeOffset="00:45:20.384" breakType="standard" breakId="amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00:45:20.384_MID_ROLL_4">
-<vmap:AdSource id="1">
-<vmap:AdTagURI>
-<![CDATA[ https://amxp.gateway.mxplayer.in/minitv/api/videoads/ad-break?ad-break-id=amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00%3A45%3A20.384_MID_ROLL_4&video-stream-id=24d29e57-3163-46f0-9a6e-200a2a838985&ads-response-type=player&ads-request-type=REAL_TIME_DATA ]]>
-</vmap:AdTagURI>
-</vmap:AdSource>
-</vmap:AdBreak>
-<vmap:AdBreak timeOffset="00:55:00.063" breakType="standard" breakId="amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00:55:00.063_MID_ROLL_5">
-<vmap:AdSource id="1">
-<vmap:AdTagURI>
-<![CDATA[ https://amxp.gateway.mxplayer.in/minitv/api/videoads/ad-break?ad-break-id=amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00%3A55%3A00.063_MID_ROLL_5&video-stream-id=24d29e57-3163-46f0-9a6e-200a2a838985&ads-response-type=player&ads-request-type=REAL_TIME_DATA ]]>
-</vmap:AdTagURI>
-</vmap:AdSource>
-</vmap:AdBreak>
+
+  <!-- 🔹 Pre-roll -->
+  <vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
+    <vmap:AdSource allowMultipleAds="false" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3">
+        <![CDATA[ https://example.com/vast-preroll.xml ]]>
+      </vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+
+  <!-- 🔹 Mid-roll at 15 sec -->
+  <vmap:AdBreak timeOffset="00:00:15.000" breakType="linear" breakId="midroll">
+    <vmap:AdSource allowMultipleAds="false" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3">
+        <![CDATA[ https://example.com/vast-midroll.xml ]]>
+      </vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+
+  <!-- 🔹 Post-roll -->
+  <vmap:AdBreak timeOffset="end" breakType="linear" breakId="postroll">
+    <vmap:AdSource allowMultipleAds="false" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3">
+        <![CDATA[ https://example.com/vast-postroll.xml ]]>
+      </vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+
 </vmap:VMAP>
