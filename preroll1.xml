@@ -6,7 +6,7 @@
 
       <Creatives>
         <Creative sequence="1">
-          <Linear>
+          <Linear skipoffset="00:00:05"> <!-- Skip after 5 seconds -->
             <Duration>00:00:10</Duration>
 
             <MediaFiles>
