@@ -9,7 +9,7 @@
 <vmap:AdBreak timeOffset="00:04:36.209" breakType="standard" breakId="amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00:04:36.209_MID_ROLL_0">
 <vmap:AdSource id="1">
 <vmap:AdTagURI>
-<![CDATA[ https://amxp.gateway.mxplayer.in/minitv/api/videoads/ad-break?ad-break-id=amzn1.dv.gti.d3f60a18-2c23-484c-b122-6723fe3c1569_00%3A04%3A36.209_MID_ROLL_0&video-stream-id=24d29e57-3163-46f0-9a6e-200a2a838985&ads-response-type=player&ads-request-type=REAL_TIME_DATA ]]>
+<![CDATA[ https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/midroll.xml ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
 </vmap:AdBreak>
