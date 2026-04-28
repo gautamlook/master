@@ -44,7 +44,7 @@
                 width="640"
                 height="360"
                 bitrate="800">
-                <![CDATA[ https://www.w3schools.com/html/movie.mp4 ]]>
+                <![CDATA[ https://www.w3schools.com/html/mov_bbb.mp4 ]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
@@ -71,7 +71,7 @@
                 width="640"
                 height="360"
                 bitrate="800">
-                <![CDATA[ https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4 ]]>
+                <![CDATA[ https://www.w3schools.com/html/mov_bbb.mp4 ]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
