@@ -1,84 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
 <VAST version="3.0">
 
-  <!-- Ad 1 -->
-  <Ad id="ad-1" sequence="1">
-    <InLine>
-      <AdSystem>Custom Ad Server</AdSystem>
-      <AdTitle>Sample MP4 Ad 1</AdTitle>
+    <!-- Ad 1 -->
+    <Ad id="ad-1" sequence="1">
+        <InLine>
+            <AdSystem version="1.0">Custom Ad Server</AdSystem>
+            <AdTitle>Sample MP4 Ad 1</AdTitle>
+            <Impression id="1"><![CDATA[]]></Impression>
+            <Error><![CDATA[]]></Error>
+            <Creatives>
+                <Creative id="1" sequence="1">
+                    <Linear skipoffset="00:00:05">
+                        <Duration>00:00:10</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[]]></Tracking>
+                            <Tracking event="skip"><![CDATA[]]></Tracking>
+                            <Tracking event="complete"><![CDATA[]]></Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile
+                                delivery="progressive"
+                                type="video/mp4"
+                                width="640"
+                                height="360"
+                                bitrate="800">
+<![CDATA[https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/videoplayback%20%282%29.mp4]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
 
-      <Creatives>
-        <Creative>
-          <Linear skipoffset="00:00:05">
-            <Duration>00:00:10</Duration>
-            <MediaFiles>
-              <MediaFile
-                delivery="progressive"
-                type="video/mp4"
-                width="640"
-                height="360"
-                bitrate="800">
-                <![CDATA[ https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/videoplayback%20(2).mp4]]>
-              </MediaFile>
-            </MediaFiles>
-          </Linear>
-        </Creative>
-      </Creatives>
+    <!-- Ad 2 -->
+    <Ad id="ad-2" sequence="2">
+        <InLine>
+            <AdSystem version="1.0">Custom Ad Server</AdSystem>
+            <AdTitle>Sample MP4 Ad 2</AdTitle>
+            <Impression id="2"><![CDATA[]]></Impression>
+            <Error><![CDATA[]]></Error>
+            <Creatives>
+                <Creative id="2" sequence="1">
+                    <Linear skipoffset="00:00:05">
+                        <Duration>00:01:29</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[]]></Tracking>
+                            <Tracking event="skip"><![CDATA[]]></Tracking>
+                            <Tracking event="complete"><![CDATA[]]></Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile
+                                delivery="progressive"
+                                type="video/mp4"
+                                width="640"
+                                height="360"
+                                bitrate="800">
+<![CDATA[https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/videoplayback%20%281%29.mp4]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
 
-    </InLine>
-  </Ad>
-
-  <!-- Ad 2 -->
-  <Ad id="ad-2" sequence="2">
-    <InLine>
-      <AdSystem>Custom Ad Server</AdSystem>
-      <AdTitle>Sample MP4 Ad 2</AdTitle>
-
-      <Creatives>
-        <Creative>
-          <Linear skipoffset="00:00:05">
-            <Duration>00:01:29</Duration>
-            <MediaFiles>
-              <MediaFile
-                delivery="progressive"
-                type="video/mp4"
-                width="640"
-                height="360"
-                bitrate="800">
-                <![CDATA[ https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/videoplayback%20(1).mp4 ]]>
-              </MediaFile>
-            </MediaFiles>
-          </Linear>
-        </Creative>
-      </Creatives>
-
-    </InLine>
-  </Ad>
-
-  <!-- Ad 3 -->
-  <Ad id="ad-3" sequence="3">
-    <InLine>
-      <AdSystem>Custom Ad Server</AdSystem>
-      <AdTitle>Sample MP4 Ad 3</AdTitle>
-
-      <Creatives>
-        <Creative>
-          <Linear skipoffset="00:00:05">
-            <Duration>00:00:30</Duration>
-            <MediaFiles>
-              <MediaFile
-                delivery="progressive"
-                type="video/mp4"
-                width="640"
-                height="360"
-                bitrate="800">
-                <![CDATA[ https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/videoplayback.mp4 ]]>
-              </MediaFile>
-            </MediaFiles>
-          </Linear>
-        </Creative>
-      </Creatives>
-
-    </InLine>
-  </Ad>
+    <!-- Ad 3 -->
+    <Ad id="ad-3" sequence="3">
+        <InLine>
+            <AdSystem version="1.0">Custom Ad Server</AdSystem>
+            <AdTitle>Sample MP4 Ad 3</AdTitle>
+            <Impression id="3"><![CDATA[]]></Impression>
+            <Error><![CDATA[]]></Error>
+            <Creatives>
+                <Creative id="3" sequence="1">
+                    <Linear skipoffset="00:00:05">
+                        <Duration>00:00:30</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[]]></Tracking>
+                            <Tracking event="skip"><![CDATA[]]></Tracking>
+                            <Tracking event="complete"><![CDATA[]]></Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile
+                                delivery="progressive"
+                                type="video/mp4"
+                                width="640"
+                                height="360"
+                                bitrate="800">
+<![CDATA[https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/videoplayback.mp4]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
 
 </VAST>
