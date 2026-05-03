@@ -17,7 +17,7 @@
                 width="640"
                 height="360"
                 bitrate="800">
-                <![CDATA[ https://www.papytane.com/mp4/kiri.mp4]]>
+                <![CDATA[ https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/videoplayback%20(2).mp4]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
@@ -36,7 +36,7 @@
       <Creatives>
         <Creative>
           <Linear skipoffset="00:00:05">
-            <Duration>00:00:10</Duration>
+            <Duration>00:01:29</Duration>
             <MediaFiles>
               <MediaFile
                 delivery="progressive"
@@ -44,7 +44,7 @@
                 width="640"
                 height="360"
                 bitrate="800">
-                <![CDATA[ https://www.papytane.com/mp4/noel2010.mp4 ]]>
+                <![CDATA[ https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/videoplayback%20(1).mp4 ]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
@@ -63,7 +63,7 @@
       <Creatives>
         <Creative>
           <Linear skipoffset="00:00:05">
-            <Duration>00:00:10</Duration>
+            <Duration>00:00:30</Duration>
             <MediaFiles>
               <MediaFile
                 delivery="progressive"
@@ -71,7 +71,7 @@
                 width="640"
                 height="360"
                 bitrate="800">
-                <![CDATA[ https://www.papytane.com/mp4/kiri.mp4 ]]>
+                <![CDATA[ https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/videoplayback.mp4 ]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
