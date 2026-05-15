@@ -10,33 +10,13 @@
   </vmap:AdBreak>
 
   <!-- 🔹 Mid-roll at 15 sec -->
-  <vmap:AdBreak timeOffset="00:00:58.000" breakType="linear" breakId="midroll1">
+  <vmap:AdBreak timeOffset="00:05:00.000" breakType="linear" breakId="midroll">
     <vmap:AdSource allowMultipleAds="false" followRedirects="true">
-      <vmap:AdTagURI templateType="vast3">
-        <![CDATA[ https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/preroll1.xml ]]>
-      </vmap:AdTagURI>
-    </vmap:AdSource>
-  </vmap:AdBreak>
-
-    <!-- 🔹 Mid-roll at 15 sec -->
-  <vmap:AdBreak timeOffset="00:05:00.000" breakType="linear" breakId="midroll2">
-    <vmap:AdSource allowMultipleAds="true" followRedirects="true">
       <vmap:AdTagURI templateType="vast3">
         <![CDATA[ https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/midroll.xml ]]>
       </vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
-  
-
-      <!-- 🔹 Mid-roll at 15 sec -->
-  <vmap:AdBreak timeOffset="00:20:00.000" breakType="linear" breakId="midroll4">
-    <vmap:AdSource allowMultipleAds="false" followRedirects="true">
-      <vmap:AdTagURI templateType="vast3">
-        <![CDATA[ https://raw.githubusercontent.com/gautamlook/master/refs/heads/master/preroll1.xml ]]>
-      </vmap:AdTagURI>
-    </vmap:AdSource>
-  </vmap:AdBreak>
-
 
   <!-- 🔹 Post-roll -->
   <vmap:AdBreak timeOffset="end" breakType="linear" breakId="postroll">
